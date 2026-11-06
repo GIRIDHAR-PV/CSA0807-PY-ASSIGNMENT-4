@@ -1,0 +1,4 @@
+ATTENDANCE SUMMARY
+Total valid records: 4
+Present: 2
+Absent: 2

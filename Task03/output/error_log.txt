@@ -1,0 +1,4 @@
+ERROR LOG
+Line 4: Invalid attendance status - 192311004,David,Invalid
+Line 5: Record must contain 3 fields - 192311005,Eswar
+Line 7: Register number or name is missing - , Gokul,Present
