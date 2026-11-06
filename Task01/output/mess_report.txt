@@ -1,0 +1,12 @@
+HOSTEL MESS BILL REPORT
+------------------------------
+192311001 - Arun - 1250.50
+192311002 - Bala - 1400.00
+192311003 - Charan - 1150.75
+192311005 - Eswar - 1300.00
+------------------------------
+Total Amount: 5101.25
+
+Rejected Lines:
+(4, '192311004,David,abc', "[<class 'decimal.ConversionSyntax'>]")
+(6, '192311006,Farhan', 'Expected 3 fields')
