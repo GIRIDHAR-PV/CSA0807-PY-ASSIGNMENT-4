@@ -1,0 +1,1 @@
+Line 4: invalid literal for int() with base 10: 'abc' - 192311004,David,abc
